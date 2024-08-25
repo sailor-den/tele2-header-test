@@ -17,6 +17,7 @@
       url('../src/assets/fonts/tele2textsanswebshort-regular.svg#tele2textsanswebshort-regular') format('svg'); 
       font-weight: normal;
       font-style: normal;
+      font-display: swap;
   }
 
   @font-face {
@@ -29,6 +30,7 @@
       url('../src/assets/fonts/tele2textsanswebshort-bold.svg#tele2textsanswebshort-bold') format('svg'); 
       font-weight: bold;
       font-style: normal;
+      font-display: swap;
   }
 
   body {
