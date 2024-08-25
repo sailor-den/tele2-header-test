@@ -53,7 +53,7 @@
             </ul>
           </nav>
         </div>
-        <div :class="['mobile-menu__wrapper', { 'mobile-menu__wrapper--active': isMenuOpen }]" >
+        <div :class="['mobile-menu__wrapper', { 'mobile-menu__wrapper--active': isMenuOpen }]" > 
           <div class="mobile-menu__top">
             <ul class="mobile-menu">
               <li
